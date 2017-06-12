@@ -1,5 +1,7 @@
 # Sovrin Client
 
+### DONOT Use this Repo, this is a left over from a past migration task, we will be shortly removeing this repository
+
 Sovrin Client to interact with Sovrin Network (public/permissioned distributed ledger)
 
 This codebase contains the code to run the CLI that interacts with the ledger.
